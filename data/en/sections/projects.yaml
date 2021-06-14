@@ -28,11 +28,7 @@ projects:
   #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: "Design and implementation of a remotely operated underwater vehicle. 
-  I was responsible to design the control and onboard software. 
-  In this project I developed a Pololu TReX Jr driver and implemented UDP 
-  communication between the control PC and a TS-7500 embedded computer module. 
-  I also implemented Joystick navigation. This project was developed with 
-  supervision from a FEUP teacher.."
+  Development of the firmware to control motors using a Joystick."
   tags: ["academic", "robots"]
 
 - name: Robotic Group

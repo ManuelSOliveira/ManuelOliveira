@@ -13,7 +13,7 @@ section:
 skills:
 - name: SystemVerilog
   logo: /images/sections/skills/SystemVerilog.png
-  summary: "Capable of implementing, mantainning RTL written into SystemVerilog. Experienced in writing RTL modules written in SystemVerilog to integrate Synopsys PCIe Digital Controller solution."
+  summary: "Capable of implementing, mantainning RTL written into SystemVerilog. Experienced in writing RTL modules in SystemVerilog to integrate Synopsys PCIe Digital Controller solution."
   url: "https://ieeexplore.ieee.org/document/8299595"
 
 - name: Python
@@ -23,12 +23,12 @@ skills:
 
 - name: Perforce
   logo: /images/sections/skills/Perforce.jpg
-  summary: "Experienced with perforce-based development."
+  summary: "Experienced with git-based (Perforce) development."
   url: "https://www.perforce.com/"
 
 - name: Jira
   logo: "/images/sections/skills/Jira.png"
-  summary: "Main tool used for task managing."
+  summary: "Main tool used for task management."
   url: "https://www.atlassian.com/software/jira"
 
 - name: Linux
