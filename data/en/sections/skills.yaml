@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: SystemVerilog
+  logo: /images/sections/skills/SystemVerilog.png
+  summary: "Capable of implementing, mantainning RTL written into SystemVerilog. Experienced in writing RTL modules written in SystemVerilog to integrate Synopsys PCIe Digital Controller solution."
+  url: "https://ieeexplore.ieee.org/document/8299595"
+
+- name: Python
+  logo: /images/sections/skills/Python.png
+  summary: "Using as the main language to developed auxiliar tools and scripts to automate tasks."
+  url: "https://www.python.org"
+
+- name: Perforce
+  logo: /images/sections/skills/Perforce.jpg
+  summary: "Experienced with perforce-based development."
+  url: "https://www.perforce.com/"
+
+- name: Jira
+  logo: "/images/sections/skills/Jira.png"
+  summary: "Main tool used for task managing."
+  url: "https://www.atlassian.com/software/jira"
+
+- name: Linux
+  logo: /images/sections/skills/Linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  url: "https://linux.org/"
+
+- name: Windows
+  logo: "/images/sections/skills/Windows.png"
+  summary: "The first desktop operating system used. Currently used mostly as host OS."
+  url: "https://windows.com/"
+  
+- name: Microsft Office
+  logo: "/images/sections/skills/Office.png"
+  summary: "Experience with the main tools of Microsoft Office."
+  url: "https://office.com/"

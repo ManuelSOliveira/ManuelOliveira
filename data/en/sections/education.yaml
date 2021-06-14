@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master in Electrical and Computers Engineering
+  icon: fa-university
+  timeframe: 2010-2015
+  institution:
+    name: Faculty of Engineering , University of Porto
+    url: "https://www.fe.up.pt"
+  grade: #(optional)
+    scale: Portuguese Scale
+    achieved: 16
+    outOf: 20
+  extracurricularActivities: #(optional)
+  - Poseidon - ROV
+- name: Technical in Electronics and TelecommunicationsField Of StudyElectrical, Electronic and Communications
+  icon: fa-graduation-cap
+  timeframe: 2007-2010
+  institution:
+    name: Colégio Internato dos Carvalhos
+    url: "https://cic.pt/index.asp"
+  grade: #(optional)
+    scale: Portuguese Scale
+    achieved: 19
+    outOf: 20
+  extracurricularActivities: #(optional)
+  - Claret choir
+  - Robotic group

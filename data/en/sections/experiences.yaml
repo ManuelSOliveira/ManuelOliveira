@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Synopsys
+    url: "https://www.synopsys.com"
+    location: Maia, Porto, Portugal
+    # company overview
+    overview: Synopsys is at the forefront of Smart Everything with the world’s most advanced technologies for chip design, verification, IP integration, and application security testing and quality testing. We help our customers innovate from silicon to software.
+  positions:
+  - designation: ASIC Digital Design, Sr. I
+    start: Dec 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
+    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+    - Responsible for process automation and readability improvements using scripting languages like Python.
+    - Supervision of youngest peers and students in internships and Master’s thesis.
+
+  - designation: ASIC Digital Design, II
+    start: Jun 2018
+    end: Nov 2020
+    responsibilities:
+    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
+    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+
+  - designation: ASIC Digital Design, I
+    start: Sep 2015
+    end: May 2018
+    responsibilities:
+    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
+    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+
+  - designation: Graduate Student Intern
+    start: Sep 2014
+    end: Aug 2015
+    responsibilities:
+    - Master's thesis work.
+    - Development of a methodology based on SysML to describe the micro-architecture of a SoC. Exploration of SysML to generate Verilog 2001 code.
+
+  - designation: Intern
+    start: Jul 2014
+    end: Sep 2014
+    responsibilities:
+    - Exploring the SysML language for specification and documentation in the digital design flow of VLSI circuits.
+
+- company:
+    name: Faculty of Engineering , University of Porto
+    url: "https://www.fe.up.pt"
+    location: Porto, Portugal
+    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
+  positions:
+  - designation: Technical Assistant
+    start: Jul 2015
+    end: Sep 2014
+    responsibilities:
+    - Drawing and design of printed circuit boards (PCB).
+
+  - designation: Student Teaching Assistant
+    start: Jun 2014
+    end: Feb 2014
+    responsibilities:
+    - Assistance in the lab classes of Automation Systems (second year subject).
+  
+- company:
+    name: FEUP Events Center
+    url: "https://eventos.fe.up.pt/"
+    location: Porto, Portugal
+    overview: Company responsible to manage all events at FEUP.
+  positions:
+  - designation: Events Technical
+    start: Feb 2013
+    end: Feb 2014
+    responsibilities:
+    - Preparation and handling of light and sound equipment in events such as conferences, Congress, and concerts.
+    - Image reporter.
+    - Responsible for the maintenance of equipment.

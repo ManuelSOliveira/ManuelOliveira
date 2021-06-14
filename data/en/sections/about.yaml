@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: ASIC Digital Designer
+# your company information
+company:
+  name: Synopsys
+  url: "https://www.synopsys.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/ManuelOliveira_CV_20210609.pdf"
+
+# a summary about you
+summary: 'Senior ASIC Digital Designer working on VLSI circuits market since 2015. 
+Problem solver, driven by improving customer satisfaction, and operational improvements. 
+Member of the PCIe team since 2015, acquired the capability to specify and implement RTL 
+meting systems requirements (PCIe Spec and/or customer additional requirements) following 
+the best practices in writing code - coding style and linter analyses. His experience 
+covers mostly the transaction layer on the application side with AXI-PCIe bridge and DMA. 
+Experienced supervision of youngest peers and students in internships and Master’s thesis.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ManuelSOliveira"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/manueljsoliveira"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 100
+  color: blue
+- name: Team Work
+  percentage: 100
+  color: yellow
+- name: Fast Learner
+  percentage: 100
+  color: pink
+- name: Hard Working
+  percentage: 100
+  color: green
+- name: Problem Solving
+  percentage: 100
+  color: orange
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: PCI Express Gen4
+  url: "files/PCI_Express_Gen4-Manuel_Oliveira.pdf"
+  badge: "files/PCI_Express_Gen4-Manuel_Oliveira.png"
+

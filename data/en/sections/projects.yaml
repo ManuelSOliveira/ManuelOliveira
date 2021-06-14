@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+#buttons:
+#- name: All
+#  filter: "all"
+#- name: Professional
+#  filter: "professional"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
+
+# your projects
+projects:
+- name: Poseidon - ROV
+  #logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "March 2011 - 2015"
+  #repo: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: "Design and implementation of a remotely operated underwater vehicle. 
+  I was responsible to design the control and onboard software. 
+  In this project I developed a Pololu TReX Jr driver and implemented UDP 
+  communication between the control PC and a TS-7500 embedded computer module. 
+  I also implemented Joystick navigation. This project was developed with 
+  supervision from a FEUP teacher.."
+  tags: ["academic", "robots"]
+
+- name: Robotic Group
+  #logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jan 2008 - Jul 2010"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: "Development of projects to be presented at the annual exhibition held by the 
+  college - ExpoCIC - such as a 200W amplifier with bipolar transistors Technology, 
+  mixer with 4 stereo channels, robots that follow line and persecution and Strobe 
+  with 1000W. Participation in the tenders RoboParty 2010 and 2010 RoboTop. 
+  Helping young students in Egg Parade project."
+  tags: ["academic", "electronic", "robots"]
