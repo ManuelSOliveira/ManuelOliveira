@@ -8,23 +8,26 @@ section:
   template: sections/about.html
 
 # your designation
-designation: ASIC Digital Designer
+designation: Senior SoC Digital Designer
 # your company information
 company:
-  name: Synopsys
-  url: "https://www.synopsys.com"
+  name: Axelera AI
+  url: "https://www.axelera.ai/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/ManuelOliveira_CV_20210609.pdf"
 
 # a summary about you
-summary: 'Senior ASIC Digital Designer working on VLSI circuits market since 2015. 
-Problem solver, driven by improving customer satisfaction, and operational improvements. 
-Member of the PCIe team since 2015, acquired the capability to specify and implement RTL 
-meting systems requirements (PCIe Spec and/or customer additional requirements) following 
-the best practices in writing code - coding style and linter analyses. His experience 
-covers mostly the transaction layer on the application side with AXI-PCIe bridge and DMA. 
-Experienced supervision of youngest peers and students in internships and Master’s thesis.'
+summary: 'Senior Digital Designer with over 8 years of experience in VLSI circuits. 
+Problem solver, driven by improving the quality and robustness of the RTL. 
+Member of the PCIe team for more than 7 years, acquired the capability to specify 
+and implement RTL meeting systems requirements (PCIe Spec and/or customer additional 
+requirements) following the best practices in writing code - coding style and 
+linter analyses. As Tech Lead, was responsible to coordinate a small team and planning 
+project tasks. Experienced supervision of youngest peers and students in internships 
+and Master’s thesis. Nowadays, as an SoC designer, he is working close to the BE team, 
+and diving deeply into Formal Verification, being the person in touch for any Formal 
+Verification initiative in the team.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
