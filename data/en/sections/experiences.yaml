@@ -11,6 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Axelera AI
+    url: "https://www.axelera.ai/"
+    location: Eindhoven, Netherlands, (Working remotely from Portugal)
+    # company overview
+    overview: At Axelera AI we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
+  positions:
+  - designation: Senior SoC Digital Design
+    start: August 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop and document micro-architectures from high-level specifications.
+    - Block and system-level RTL coding
+    - Integrate various IPs/Sub IPs to top-level SoC
+    - Perform static checks to enhance the quality of the RTL (lint, CDC, equivalence checks)
+    - Perform Formal Verification tests
+    - Automate tasks using scripting for efficiency
+    - Working closely with the verification team to define test plan, run regressions, reproduce, and debug functional and performance bugs.
+    - Perform preliminary design synthesis to identify and fix timing issues for the Physical Design team
+    - Supervision of youngest peers and students in internships and Master’s thesis.
+    
+- company:
     name: Synopsys
     url: "https://www.synopsys.com"
     location: Maia, Porto, Portugal
@@ -19,12 +42,10 @@ experiences:
   positions:
   - designation: ASIC Digital Design, Sr. I
     start: Dec 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: July 2022
     responsibilities:
     - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
     - Responsible for process automation and readability improvements using scripting languages like Python.
     - Supervision of youngest peers and students in internships and Master’s thesis.
 
@@ -33,14 +54,14 @@ experiences:
     end: Nov 2020
     responsibilities:
     - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
 
   - designation: ASIC Digital Design, I
     start: Sep 2015
     end: May 2018
     responsibilities:
     - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assignment the issues to the correct person.
+    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
 
   - designation: Graduate Student Intern
     start: Sep 2014
@@ -56,7 +77,7 @@ experiences:
     - Exploring the SysML language for specification and documentation in the digital design flow of VLSI circuits.
 
 - company:
-    name: Faculty of Engineering , University of Porto
+    name: Faculty of Engineering, University of Porto
     url: "https://www.fe.up.pt"
     location: Porto, Portugal
     overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
@@ -71,13 +92,13 @@ experiences:
     start: Jun 2014
     end: Feb 2014
     responsibilities:
-    - Assistance in the lab classes of Automation Systems (second year subject).
+    - Assistance in the lab classes of Automation Systems (second-year subject).
   
 - company:
     name: FEUP Events Center
     url: "https://eventos.fe.up.pt/"
     location: Porto, Portugal
-    overview: Company responsible to manage all events at FEUP.
+    overview: Responsible to manage all events at FEUP.
   positions:
   - designation: Events Technical
     start: Feb 2013
