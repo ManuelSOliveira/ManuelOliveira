@@ -17,21 +17,48 @@ experiences:
     # company overview
     overview: At Axelera AI we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
   positions:
-  - designation: Senior SoC Digital Design
-    start: August 2022
+  - designation: Staff Silicon Logical Design Engineer
+    start: August 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop and document micro-architectures from high-level specifications.
-    - Block and system-level RTL coding
-    - Integrate various IPs/Sub IPs to top-level SoC
-    - Perform static checks to enhance the quality of the RTL (lint, CDC, equivalence checks)
-    - Perform Formal Verification tests
-    - Automate tasks using scripting for efficiency
-    - Working closely with the verification team to define test plan, run regressions, reproduce, and debug functional and performance bugs.
-    - Perform preliminary design synthesis to identify and fix timing issues for the Physical Design team
-    - Supervision of youngest peers and students in internships and Master’s thesis.
+    - Lead cross-functional design teams through the complete product development lifecycle, from requirements definition to silicon validation for next-generation semiconductor solutions
+    - Architect scalable micro-architectures and system-level designs from high-level specifications, balancing performance, power, and area constraints
+    - Develop high-quality RTL implementations across multiple abstraction levels, emphasising code reusability, maintainability, and optimal resource utilisation
+    - Orchestrate complex SoC integration efforts, seamlessly connecting diverse IP portfolios while managing timing, power, and functional interdependencies
+    - Drive design quality initiatives through rigorous static verification workflows, including comprehensive lint analysis, CDC verification, and formal equivalence checking
+    - Design and execute formal verification strategies to prove design correctness and ensure specification compliance mathematically
+    - Build robust automation ecosystems and intelligent scripting frameworks that accelerate development cycles and minimise manual intervention
+    - Partner closely with verification teams throughout the design validation process, from test planning and coverage analysis to root-cause analysis of complex functional issues
+    - Perform design-for-test synthesis and timing optimisation, delivering timing-clean netlists with detailed constraints and recommendations for physical implementation
+    - Cultivate technical talent through hands-on mentorship of junior engineers, university interns, and graduate researchers, fostering innovation and professional growth
+  - designation: Senior Silicon Logical Design Engineer
+    start: August 2022
+    end: July 2025
+    responsibilities:
+    - Develop and document detailed micro-architectures from high-level system specifications, ensuring optimal design trade-offs and implementation feasibility
+    - Design and implement RTL code at block and system levels, focusing on functionality, performance, and maintainability
+    - Integrate multiple IP blocks and sub-modules into cohesive top-level SoC designs, managing interface compatibility and system coherence
+    - Execute comprehensive static verification flows including lint analysis, clock domain crossing (CDC) checks, and formal equivalence verification to ensure RTL quality
+    - Design and implement formal verification testbenches to prove design correctness and ensure specification compliance mathematically
+    - Create automation scripts and tools to streamline design processes, reduce manual effort, and improve overall team efficiency
+    - Collaborate closely with verification teams to develop comprehensive test plans, execute regression testing, and systematically debug functional and performance issues
+    - Conduct preliminary synthesis analysis to identify timing bottlenecks and provide optimization recommendations for physical design implementation
+    - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and supporting their professional development
+
+- company:
+    name: Faculty of Engineering, University of Porto
+    url: "https://www.fe.up.pt"
+    location: Porto, Portugal
+    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at an international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
+  positions:
+  - designation: Invited Assistant
+    start: Jul 2015
+    end: Sep 2014
+    responsibilities:
+    - Teaching Fundamentals of Computer Systems and Computer Architecture
+    - Delivered comprehensive problem-solving sessions, presenting complex theoretical concepts and guiding students through systematic analysis and resolution techniques
     
 - company:
     name: Synopsys
@@ -44,55 +71,55 @@ experiences:
     start: Dec 2020
     end: July 2022
     responsibilities:
-    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
-    - Responsible for process automation and readability improvements using scripting languages like Python.
-    - Supervision of youngest peers and students in internships and Master’s thesis.
+    - Design, implement, and maintain high-performance RTL architectures optimized for high-frequency synthesis, ensuring compliance with system specifications and customer requirements
+    - Lead code quality initiatives by implementing comprehensive linting workflows, conducting design reviews, and coordinating issue resolution across development teams
+    - Drive process optimization through Python-based automation solutions, enhancing design productivity and code maintainability across project lifecycles
+    - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and fostering professional development within the team
 
   - designation: ASIC Digital Design, II
     start: Jun 2018
     end: Nov 2020
     responsibilities:
-    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
+    - Design, implement, and maintain RTL for high-performance systems targeting high-frequency synthesis, ensuring adherence to functional specifications and customer requirements
+    - Oversee code quality assurance through automated linting processes, conducting comprehensive reviews and coordinating issue resolution across development teams
 
   - designation: ASIC Digital Design, I
     start: Sep 2015
     end: May 2018
     responsibilities:
-    - Specification, implementation, and maintenance of RTL to high-performance systems synthesized at high speeds in accordance with specifications and customer requirements.
-    - Responsible to supervise the code quality using a linter tool and assigning the issues to the correct person.
+    - Specify, implement, and maintain RTL designs for high-performance systems optimized for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
+    - Supervise code quality through automated linting workflows and coordinate issue resolution by directing tasks to appropriate team members
 
   - designation: Graduate Student Intern
     start: Sep 2014
     end: Aug 2015
     responsibilities:
-    - Master's thesis work.
-    - Development of a methodology based on SysML to describe the micro-architecture of a SoC. Exploration of SysML to generate Verilog 2001 code.
+    - Developed a novel SysML-based methodology for micro-architectural specification and documentation of System-on-Chip (SoC) designs
+    - Explored automated code generation techniques to transform SysML architectural models into synthesizable Verilog 2001 implementations
 
   - designation: Intern
     start: Jul 2014
     end: Sep 2014
     responsibilities:
-    - Exploring the SysML language for specification and documentation in the digital design flow of VLSI circuits.
+    - Investigated SysML modeling language applications for specification and documentation within VLSI digital design workflows
 
 - company:
     name: Faculty of Engineering, University of Porto
     url: "https://www.fe.up.pt"
     location: Porto, Portugal
-    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
+    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at an international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
   positions:
   - designation: Technical Assistant
     start: Jul 2015
     end: Sep 2014
     responsibilities:
-    - Drawing and design of printed circuit boards (PCB).
+    - Designed and developed printed circuit boards (PCB), including schematic capture and layout optimisation
 
   - designation: Student Teaching Assistant
     start: Jun 2014
     end: Feb 2014
     responsibilities:
-    - Assistance in the lab classes of Automation Systems (second-year subject).
+    - Provided instructional support for Automation Systems laboratory sessions (second-year undergraduate course)
   
 - company:
     name: FEUP Events Center
@@ -104,6 +131,6 @@ experiences:
     start: Feb 2013
     end: Feb 2014
     responsibilities:
-    - Preparation and handling of light and sound equipment in events such as conferences, Congress, and concerts.
-    - Image reporter.
-    - Responsible for the maintenance of equipment.
+    - Set up and operated professional lighting and sound systems for diverse events including conferences, conventions, and live performances
+    - Served as event photographer, capturing key moments and providing comprehensive visual documentation
+    - Maintained and serviced technical equipment to ensure optimal performance and reliability across all events
