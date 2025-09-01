@@ -13,9 +13,9 @@ experiences:
 - company:
     name: Axelera AI
     url: "https://www.axelera.ai/"
-    location: Eindhoven, Netherlands, (Working remotely from Portugal)
+    location: Eindhoven, Netherlands (Working remotely from Portugal)
     # company overview
-    overview: At Axelera AI we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
+    overview: At Axelera AI, we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
   positions:
   - designation: Staff Silicon Logical Design Engineer
     start: August 2025
@@ -40,11 +40,11 @@ experiences:
     - Develop and document detailed micro-architectures from high-level system specifications, ensuring optimal design trade-offs and implementation feasibility
     - Design and implement RTL code at block and system levels, focusing on functionality, performance, and maintainability
     - Integrate multiple IP blocks and sub-modules into cohesive top-level SoC designs, managing interface compatibility and system coherence
-    - Execute comprehensive static verification flows including lint analysis, clock domain crossing (CDC) checks, and formal equivalence verification to ensure RTL quality
+    - Execute comprehensive static verification flows, including lint analysis, clock domain crossing (CDC) checks, and formal equivalence verification to ensure RTL quality
     - Design and implement formal verification testbenches to prove design correctness and ensure specification compliance mathematically
     - Create automation scripts and tools to streamline design processes, reduce manual effort, and improve overall team efficiency
     - Collaborate closely with verification teams to develop comprehensive test plans, execute regression testing, and systematically debug functional and performance issues
-    - Conduct preliminary synthesis analysis to identify timing bottlenecks and provide optimization recommendations for physical design implementation
+    - Conduct preliminary synthesis analysis to identify timing bottlenecks and provide optimisation recommendations for physical design implementation
     - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and supporting their professional development
 
 - company:
@@ -71,24 +71,28 @@ experiences:
     start: Dec 2020
     end: July 2022
     responsibilities:
-    - Design, implement, and maintain high-performance RTL architectures optimized for high-frequency synthesis, ensuring compliance with system specifications and customer requirements
+    - Design, implement, and maintain high-performance RTL architectures optimised for high-frequency synthesis, ensuring compliance with system specifications and customer requirements
     - Lead code quality initiatives by implementing comprehensive linting workflows, conducting design reviews, and coordinating issue resolution across development teams
-    - Drive process optimization through Python-based automation solutions, enhancing design productivity and code maintainability across project lifecycles
+    - Drive process optimisation through Python-based automation solutions, enhancing design productivity and code maintainability across project lifecycles
     - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and fostering professional development within the team
 
   - designation: ASIC Digital Design, II
     start: Jun 2018
     end: Nov 2020
     responsibilities:
-    - Design, implement, and maintain RTL for high-performance systems targeting high-frequency synthesis, ensuring adherence to functional specifications and customer requirements
-    - Oversee code quality assurance through automated linting processes, conducting comprehensive reviews and coordinating issue resolution across development teams
+    - Specify, implement, and maintain RTL designs for high-performance systems optimised for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
+    - Supervise code quality through automated linting workflows and coordinate issue resolution by assigning tasks to appropriate team members
+    - Drive process automation and code readability improvements through Python scripting solutions and development tooling
+    - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and fostering professional development
 
   - designation: ASIC Digital Design, I
     start: Sep 2015
     end: May 2018
     responsibilities:
-    - Specify, implement, and maintain RTL designs for high-performance systems optimized for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
-    - Supervise code quality through automated linting workflows and coordinate issue resolution by directing tasks to appropriate team members
+    - Specify, implement, and maintain RTL designs for high-performance systems optimised for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
+    - Supervise code quality through automated linting workflows and coordinate issue resolution by assigning tasks to appropriate team members
+    - Drive process automation and code readability improvements through Python scripting solutions and development tooling
+    - Mentor junior engineers and interns, providing technical guidance and fostering professional development
 
   - designation: Graduate Student Intern
     start: Sep 2014
@@ -101,7 +105,7 @@ experiences:
     start: Jul 2014
     end: Sep 2014
     responsibilities:
-    - Investigated SysML modeling language applications for specification and documentation within VLSI digital design workflows
+    - Investigated SysML modelling language applications for specification and documentation within VLSI digital design workflows
 
 - company:
     name: Faculty of Engineering, University of Porto
@@ -125,12 +129,12 @@ experiences:
     name: FEUP Events Center
     url: "https://eventos.fe.up.pt/"
     location: Porto, Portugal
-    overview: Responsible to manage all events at FEUP.
+    overview: Responsible for managing all events at FEUP.
   positions:
   - designation: Events Technical
     start: Feb 2013
     end: Feb 2014
     responsibilities:
-    - Set up and operated professional lighting and sound systems for diverse events including conferences, conventions, and live performances
+    - Set up and operated professional lighting and sound systems for diverse events, including conferences, conventions, and live performances
     - Served as event photographer, capturing key moments and providing comprehensive visual documentation
     - Maintained and serviced technical equipment to ensure optimal performance and reliability across all events
