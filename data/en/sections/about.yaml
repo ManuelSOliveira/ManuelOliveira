@@ -18,16 +18,13 @@ company:
 resume: "files/ManuelOliveira_CV_20230327.pdf"
 
 # a summary about you
-summary: 'Senior Digital Designer with over 8 years of experience in VLSI circuits. 
-Problem solver, driven by improving the quality and robustness of the RTL. 
-Member of the PCIe team for more than 7 years, acquired the capability to specify 
-and implement RTL meeting systems requirements (PCIe Spec and/or customer additional 
-requirements) following the best practices in writing code - coding style and 
-linter analyses. As Tech Lead, was responsible to coordinate a small team and planning 
-project tasks. Experienced supervision of youngest peers and students in internships 
-and Master’s thesis. Nowadays, as an SoC designer, he is working close to the BE team, 
-and diving deeply into Formal Verification, being the person in touch for any Formal 
-Verification initiative in the team.'
+summary: '**Chip design specialist with 10+ years of experience**, leading the development of **next-generation AI processors** at Axelera AI.
+Solid track record from intern to technical leader at Synopsys, combining **deep technical expertise** with **cross-functional team leadership**.
+
+Focus on innovative silicon architectures, formal verification, and intelligent automation that accelerates development cycles.
+**Invited lecturer** at the University of Porto, mentoring the next generation of engineers.
+
+> *"Transforming visionary concepts into reality through silicon design that shapes the future of computing."*'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
