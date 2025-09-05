@@ -27,12 +27,12 @@ skills:
   url: "https://www.perforce.com/"
 
 - name: Git
-  logo: /images/sections/skills/git.jpg
+  logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development."
   url: "https://git-scm.com/"
 
 - name: GitLab
-  logo: /images/sections/skills/gitlab.jpg
+  logo: /images/sections/skills/gitlab.png
   summary: "Experienced with the SDLC (software development lifecycle) platform."
   url: "https://git-scm.com/"
 
