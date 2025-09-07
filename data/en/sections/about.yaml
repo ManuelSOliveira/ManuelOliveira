@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Staff Silicon Logical Design Engineer
+designation: Silicon Logic Design Engineering Lead
 # your company information
 company:
   name: Axelera AI
