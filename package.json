@@ -24,7 +24,12 @@
     "postcss-cli": "^11.0.0"
   },
   "scripts": {
-    "build": "hugo",
-    "serve": "hugo server -D"
+    "build": "hugo --gc --minify",
+    "serve": "hugo server -D",
+    "dev": "hugo server -D",
+    "clean": "rm -rf public resources"
+  },
+  "engines": {
+    "node": ">=25.0.0"
   }
 }

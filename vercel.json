@@ -1,0 +1,13 @@
+{
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.152.2",
+      "GO_VERSION": "1.25.3",
+      "NODE_VERSION": "25.1.0"
+    }
+  },
+  "installCommand": "npm install && hugo mod get",
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "framework": null
+}
