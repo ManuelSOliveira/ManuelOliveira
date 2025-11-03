@@ -1,5 +1,7 @@
 {
-  "framework": "hugo",
+  "buildCommand": "curl -sL https://go.dev/dl/go1.23.3.linux-amd64.tar.gz | tar -xz && export PATH=$PWD/go/bin:$PATH && export GOPATH=$PWD/go && hugo mod get && hugo --gc --minify",
+  "installCommand": "npm install",
+  "outputDirectory": "public",
   "build": {
     "env": {
       "HUGO_VERSION": "0.152.2"
