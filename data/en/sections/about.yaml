@@ -18,16 +18,16 @@ company:
 resume: "files/ManuelOliveira_CV_20230327.pdf"
 
 # a summary about you
-summary: "**Chip design leader with 10+ years of experience architecting next-generation semiconductor solutions**, currently driving AI processor development as 
+summary: "**Chip design leader with 10+ years of experience architecting next-generation semiconductor solutions**, currently driving AI processor development as
 Staff Silicon Logical Design Engineer at Axelera AI.
 
 
-From my foundations as an intern at Synopsys to technical leadership roles, I've cultivated deep expertise in **RTL design, formal verification, and SoC integration** — 
+From my foundations as an intern at Synopsys to technical leadership roles, I've cultivated deep expertise in **RTL design, formal verification, and SoC integration** —
 transforming complex specifications into high-performance silicon that powers tomorrow's intelligent systems.
 
 
-At Axelera AI, I lead cross-functional teams developing breakthrough **AI hardware platforms** that leverage proprietary in-memory computing and RISC-V dataflow technology, 
-delivering exceptional performance at a fraction of traditional power consumption. My work spans the complete product lifecycle: from micro-architecture definition and 
+At Axelera AI, I lead cross-functional teams developing breakthrough **AI hardware platforms** that leverage proprietary in-memory computing and RISC-V dataflow technology,
+delivering exceptional performance at a fraction of traditional power consumption. My work spans the complete product lifecycle: from micro-architecture definition and
 scalable RTL implementation to formal verification and silicon validation.
 
 
@@ -48,11 +48,11 @@ scalable RTL implementation to formal verification and silicon validation.
 - Technical leadership and mentorship, cultivating engineering talent from interns to senior team members
 
 
-Beyond industry work, I serve as an **Invited Teaching Assistant** at the Faculty of Engineering, University of Porto, sharing knowledge in Computer Architecture and shaping 
+Beyond industry work, I serve as an **Invited Teaching Assistant** at the Faculty of Engineering, University of Porto, sharing knowledge in Computer Architecture and shaping
 the next generation of hardware engineers.
 
 
-My approach combines technical precision with strategic vision—designing silicon architectures that don't just meet specifications, but push the boundaries of what's 
+My approach combines technical precision with strategic vision—designing silicon architectures that don't just meet specifications, but push the boundaries of what's
 possible in AI acceleration.
 
 
@@ -96,4 +96,3 @@ badges:
   name: PCI Express Gen4
   url: "files/PCI_Express_Gen4-Manuel_Oliveira.pdf"
   badge: "files/PCI_Express_Gen4-Manuel_Oliveira.png"
-

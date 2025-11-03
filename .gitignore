@@ -1,1 +1,6 @@
 resource/*
+public/
+node_modules/
+go.sum
+.hugo_build.lock
+themes.backup/
