@@ -3,7 +3,7 @@
     "env": {
       "HUGO_VERSION": "0.152.2",
       "GO_VERSION": "1.25.3",
-      "NODE_VERSION": "25.1.0"
+      "NODE_VERSION": "22.x"
     }
   },
   "installCommand": "npm install && hugo mod get",
