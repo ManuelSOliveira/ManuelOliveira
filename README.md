@@ -8,7 +8,7 @@ My personal portfolio website built with Hugo and the Toha theme.
 - **Toha v4.10.0** - Portfolio theme
 - **Bootstrap 5** - UI framework
 - **Go 1.25.3** - For Hugo modules
-- **Node.js 25.1.0** - For theme dependencies
+- **Node.js 22.x** - For theme dependencies
 
 ## Local Development
 
@@ -16,7 +16,7 @@ My personal portfolio website built with Hugo and the Toha theme.
 
 - Hugo Extended v0.152.2+
 - Go 1.25.3+
-- Node.js 25.1.0+
+- Node.js 22.x+
 
 ### Setup
 
@@ -60,7 +60,7 @@ This site is configured for deployment on Vercel. The configuration is in `verce
 **Environment Variables:**
 - `HUGO_VERSION`: 0.152.2
 - `GO_VERSION`: 1.25.3
-- `NODE_VERSION`: 25.1.0
+- `NODE_VERSION`: 22.x
 
 ### Manual Deployment
 
