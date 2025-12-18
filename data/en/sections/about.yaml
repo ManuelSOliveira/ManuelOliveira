@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Silicon Logic Design Engineering Lead
+designation: Engineering Manager, Silicon Logic Design Team
 # your company information
 company:
   name: Axelera AI
@@ -18,45 +18,43 @@ company:
 resume: "files/ManuelOliveira_CV_20230327.pdf"
 
 # a summary about you
-summary: "**Chip design leader with 10+ years of experience architecting next-generation semiconductor solutions**, currently driving AI processor development as
-Staff Silicon Logical Design Engineer at Axelera AI.
+summary: "**Engineering leader with 10+ years of experience building teams and architecting next-generation semiconductor solutions**, currently leading the Silicon Logic Design Team at Axelera AI as we develop breakthrough AI processors for edge computing.
 
 
-From my foundations as an intern at Synopsys to technical leadership roles, I've cultivated deep expertise in **RTL design, formal verification, and SoC integration** —
-transforming complex specifications into high-performance silicon that powers tomorrow's intelligent systems.
+From my foundations as an intern at Synopsys through progressive technical leadership roles, I've cultivated deep expertise in **RTL design, formal verification, and SoC integration** — while discovering my passion for **building and empowering high-performing engineering teams**.
 
 
-At Axelera AI, I lead cross-functional teams developing breakthrough **AI hardware platforms** that leverage proprietary in-memory computing and RISC-V dataflow technology,
-delivering exceptional performance at a fraction of traditional power consumption. My work spans the complete product lifecycle: from micro-architecture definition and
-scalable RTL implementation to formal verification and silicon validation.
+As Engineering Manager at Axelera AI, I lead a multidisciplinary team developing **AI hardware platforms** that leverage proprietary in-memory computing and RISC-V dataflow technology, delivering exceptional performance at a fraction of traditional power consumption. I balance hands-on technical contributions with strategic leadership: defining technical roadmaps, fostering team growth, and ensuring we deliver silicon excellence on schedule.
 
 
-**Core expertise**:
+**Leadership & Technical Expertise**:
 
 
-- Advanced RTL design in SystemVerilog for high-performance, area-optimised implementations
+- Team leadership and talent development—mentoring engineers from junior to staff level
 
 
-- Formal verification strategies ensuring mathematical proof of design correctness
+- Strategic technical planning and cross-functional coordination across architecture, verification, and physical design teams
 
 
-- Complex SoC integration across diverse IP portfolios with rigorous timing and power management
+- Advanced RTL design and formal verification strategies ensuring mathematical proof of design correctness
 
 
-- Intelligent automation frameworks and Python-based tooling that accelerate development cycles
-
-- Technical leadership and mentorship, cultivating engineering talent from interns to senior team members
+- Complex SoC integration with rigorous timing, power, and functional management
 
 
-Beyond industry work, I serve as an **Invited Teaching Assistant** at the Faculty of Engineering, University of Porto, sharing knowledge in Computer Architecture and shaping
-the next generation of hardware engineers.
+- Intelligent automation frameworks and Python tooling that accelerate development cycles
 
 
-My approach combines technical precision with strategic vision—designing silicon architectures that don't just meet specifications, but push the boundaries of what's
-possible in AI acceleration.
+- Process optimisation and methodology establishment to enhance team productivity
 
 
-> \"Transforming visionary concepts into silicon reality, one design at a time.\""
+Beyond industry leadership, I serve as an **Invited Teaching Assistant** at the Faculty of Engineering, University of Porto, sharing knowledge in Computer Architecture and shaping the next generation of hardware engineers.
+
+
+My approach combines technical precision with people-first leadership—building teams that don't just meet specifications, but push the boundaries of what's possible in AI acceleration.
+
+
+> \"Building exceptional teams that transform visionary concepts into silicon reality.\""
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -75,13 +73,13 @@ softSkills:
 - name: Leadership
   percentage: 100
   color: blue
-- name: Team Work
+- name: Team Building
   percentage: 100
   color: yellow
-- name: Fast Learner
+- name: Technical Excellence
   percentage: 100
   color: pink
-- name: Hard Working
+- name: Strategic Planning
   percentage: 100
   color: green
 - name: Problem Solving
