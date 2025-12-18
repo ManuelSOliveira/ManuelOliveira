@@ -17,11 +17,24 @@ experiences:
     # company overview
     overview: At Axelera AI, we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
   positions:
-  - designation: Staff Silicon Logical Design Engineer
-    start: August 2025
+  - designation: Engineering Manager, Silicon Logic Design Team
+    start: December 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead and manage a multidisciplinary team of silicon design engineers, fostering technical excellence and professional growth through strategic mentorship and career development
+    - Define and execute technical roadmaps for the logic design team, aligning engineering efforts with company objectives and product requirements
+    - Drive recruitment, onboarding, and retention strategies to build a high-performing team capable of delivering next-generation semiconductor solutions
+    - Establish and optimise design methodologies, workflows, and best practices to enhance team productivity and design quality
+    - Coordinate cross-functional collaboration with verification, physical design, architecture, and systems teams to ensure seamless product development
+    - Manage project timelines, resource allocation, and risk mitigation strategies to deliver silicon designs on schedule and within specifications
+    - Conduct regular one-on-one meetings, performance reviews, and team assessments to support individual growth and maintain team cohesion
+    - Champion innovation and continuous improvement initiatives, promoting technical leadership and knowledge sharing across the organisation
+    
+  - designation: Staff Silicon Logical Design Engineer
+    start: August 2025
+    end: November 2024
     responsibilities:
     - Lead cross-functional design teams through the complete product development lifecycle, from requirements definition to silicon validation for next-generation semiconductor solutions
     - Architect scalable micro-architectures and system-level designs from high-level specifications, balancing performance, power, and area constraints
@@ -33,6 +46,7 @@ experiences:
     - Partner closely with verification teams throughout the design validation process, from test planning and coverage analysis to root-cause analysis of complex functional issues
     - Perform design-for-test synthesis and timing optimisation, delivering timing-clean netlists with detailed constraints and recommendations for physical implementation
     - Cultivate technical talent through hands-on mentorship of junior engineers, university interns, and graduate researchers, fostering innovation and professional growth
+    
   - designation: Senior Silicon Logical Design Engineer
     start: August 2022
     end: July 2025
