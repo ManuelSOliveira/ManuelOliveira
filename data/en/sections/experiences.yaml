@@ -32,7 +32,7 @@ experiences:
     overview: At Axelera AI, we are developing a game-changing AI hardware and software platform to accelerate computer vision on edge devices. Thanks to our proprietary in-memory computing and RISC-V controlled dataflow technology, our platform delivers high performance and usability at a fraction of the cost and power consumption of solutions available today.
   positions:
   - designation: Engineering Manager, Silicon Logic Design Team
-    start: December 2024
+    start: December 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -48,7 +48,7 @@ experiences:
     
   - designation: Staff Silicon Logical Design Engineer
     start: August 2025
-    end: November 2024
+    end: November 2025
     responsibilities:
     - Lead cross-functional design teams through the complete product development lifecycle, from requirements definition to silicon validation for next-generation semiconductor solutions
     - Architect scalable micro-architectures and system-level designs from high-level specifications, balancing performance, power, and area constraints
