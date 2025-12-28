@@ -10,6 +10,20 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Faculty of Engineering, University of Porto
+    url: "https://www.fe.up.pt"
+    location: Porto, Portugal
+    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at an international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
+  positions:
+  - designation: Invited Teaching Assistant
+    start: September 2023
+    # end: September 2023
+    responsibilities:
+    - Teaching Fundamentals of Computer Systems and Computer Architecture
+    - Delivered comprehensive problem-solving sessions, presenting complex theoretical concepts and guiding students through systematic analysis and resolution techniques
+    
 - company:
     name: Axelera AI
     url: "https://www.axelera.ai/"
@@ -61,19 +75,6 @@ experiences:
     - Conduct preliminary synthesis analysis to identify timing bottlenecks and provide optimisation recommendations for physical design implementation
     - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and supporting their professional development
 
-- company:
-    name: Faculty of Engineering, University of Porto
-    url: "https://www.fe.up.pt"
-    location: Porto, Portugal
-    overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at an international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
-  positions:
-  - designation: Invited Teaching Assistant
-    start: Jul 2015
-    end: Sep 2014
-    responsibilities:
-    - Teaching Fundamentals of Computer Systems and Computer Architecture
-    - Delivered comprehensive problem-solving sessions, presenting complex theoretical concepts and guiding students through systematic analysis and resolution techniques
-    
 - company:
     name: Synopsys
     url: "https://www.synopsys.com"
