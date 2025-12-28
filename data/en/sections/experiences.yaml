@@ -83,7 +83,7 @@ experiences:
     overview: Synopsys is at the forefront of Smart Everything with the world’s most advanced technologies for chip design, verification, IP integration, and application security testing and quality testing. We help our customers innovate from silicon to software.
   positions:
   - designation: ASIC Digital Design, Sr. I
-    start: Dec 2020
+    start: December 2020
     end: July 2022
     responsibilities:
     - Design, implement, and maintain high-performance RTL architectures optimised for high-frequency synthesis, ensuring compliance with system specifications and customer requirements
@@ -92,8 +92,8 @@ experiences:
     - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and fostering professional development within the team
 
   - designation: ASIC Digital Design, II
-    start: Jun 2018
-    end: Nov 2020
+    start: June 2018
+    end: November 2020
     responsibilities:
     - Specify, implement, and maintain RTL designs for high-performance systems optimised for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
     - Supervise code quality through automated linting workflows and coordinate issue resolution by assigning tasks to appropriate team members
@@ -101,7 +101,7 @@ experiences:
     - Mentor junior engineers, interns, and Master's thesis students, providing technical guidance and fostering professional development
 
   - designation: ASIC Digital Design, I
-    start: Sep 2015
+    start: September 2015
     end: May 2018
     responsibilities:
     - Specify, implement, and maintain RTL designs for high-performance systems optimised for high-speed synthesis, ensuring compliance with functional specifications and customer requirements
@@ -110,15 +110,15 @@ experiences:
     - Mentor junior engineers and interns, providing technical guidance and fostering professional development
 
   - designation: Graduate Student Intern
-    start: Sep 2014
-    end: Aug 2015
+    start: September 2014
+    end: August 2015
     responsibilities:
     - Developed a novel SysML-based methodology for micro-architectural specification and documentation of System-on-Chip (SoC) designs
     - Explored automated code generation techniques to transform SysML architectural models into synthesizable Verilog 2001 implementations
 
   - designation: Intern
-    start: Jul 2014
-    end: Sep 2014
+    start: July 2014
+    end: September 2014
     responsibilities:
     - Investigated SysML modelling language applications for specification and documentation within VLSI digital design workflows
 
@@ -129,14 +129,14 @@ experiences:
     overview: The Faculty of Engineering of the University of Porto undertakes activities in the realms of education, research, and innovation at an international level. Accordingly, the results of these activities lead to the creation and transmission of knowledge, training of competent and ethical professionals, and future leaders in the area of engineering and similar areas, and also the promotion of wellbeing of our global society.
   positions:
   - designation: Technical Assistant
-    start: Jul 2015
-    end: Sep 2014
+    start: July 2015
+    end: September 2014
     responsibilities:
     - Designed and developed printed circuit boards (PCB), including schematic capture and layout optimisation
 
   - designation: Student Teaching Assistant
-    start: Jun 2014
-    end: Feb 2014
+    start: June 2014
+    end: February 2014
     responsibilities:
     - Provided instructional support for Automation Systems laboratory sessions (second-year undergraduate course)
   
@@ -147,8 +147,8 @@ experiences:
     overview: Responsible for managing all events at FEUP.
   positions:
   - designation: Events Technical
-    start: Feb 2013
-    end: Feb 2014
+    start: February 2013
+    end: February 2014
     responsibilities:
     - Set up and operated professional lighting and sound systems for diverse events, including conferences, conventions, and live performances
     - Served as event photographer, capturing key moments and providing comprehensive visual documentation
