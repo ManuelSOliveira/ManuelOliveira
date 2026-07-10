@@ -93,6 +93,10 @@ softSkills:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: IMD Inspirational Leadership
+  url: "files/IMD_Inspirational_Leadership-Manuel_Oliveira.pdf"
+  badge: "files/IMD_Inspirational_Leadership-Manuel_Oliveira.png"
+- type: certification
   name: PCI Express Gen4
   url: "files/PCI_Express_Gen4-Manuel_Oliveira.pdf"
   badge: "files/PCI_Express_Gen4-Manuel_Oliveira.png"
