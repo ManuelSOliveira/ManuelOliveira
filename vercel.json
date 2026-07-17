@@ -1,5 +1,5 @@
 {
-  "buildCommand": "curl -sL https://go.dev/dl/go1.23.3.linux-amd64.tar.gz | tar -xz && export PATH=$PWD/go/bin:$PATH && export GOPATH=$PWD/go && hugo --gc --minify",
+  "buildCommand": "hugo --gc --minify",
   "installCommand": "npm install",
   "outputDirectory": "public",
   "build": {
